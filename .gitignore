@@ -24,3 +24,9 @@ hs_err_pid*
 
 ##Maven##
 target/
+##Eclipse##
+.settings/
+.tmp/
+.classpath
+bin/
+.project
